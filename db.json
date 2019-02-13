@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "stores": [
+        {
+                "id": "c200",
+                "name": " 7-Eleven Yusof Ishak House",
+                "address": " 31 Lower Kent Ridge Rd, #01-03 Yusof Ishak House, Singapore 119078",
+                "phone":  " 6836 6240"
+        },
+        {
+                "id": "c201",
+                "name": " 7-Eleven University Town, NUS",
+                "address": " #01-05 College Ave West, Stephen Riady Centre, Singapore 138607",
+                "phone": " 6694 4957"
+        },
+        {
+                "id": "c202",
+                "name": " 7-Eleven The Metropolis",
+                "address": " 9 N Buona Vista Dr, #01-11, Singapore 138588",
+                "phone":  " 6339 4894"
+        },
+        {
+                "id": "c203",
+                "name": " 7-Eleven Clementi",
+                "address": " 3150 Commonwealth Ave W, #02-01 Clementi MRT Station, Singapore 129580",
+                "phone": " 6776 1981"
+        },
+        {
+                "id": "c204",
+                "name": " Cheers NUS UTown",
+                "address": " 1 Create Way, #01-01, 138602",
+                "phone":" 6659 6017"
+        },
+        {
+                "id": "c205",
+                "name": " Cheers West Coast Plaza",
+                "address": " 154 West Coast Rd, West Coast Plaza, #B1-54A, 127371",
+                "phone":" 6250 1237" 
+        },
+        {
+                "id": "c206",
+                "name": " CheersHolland Road Esso Station",
+                "address": " 174 Holland Rd, Singapore 278582",
+                "phone": " 6468 5258" 
+        }
+    ]
 }
