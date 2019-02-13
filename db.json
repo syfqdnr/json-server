@@ -1,9 +1,88 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "stores": [
+        {
+                "id": "c200",
+                "name": " 7-Eleven Yusof Ishak House",
+                "email": "31 Lower Kent Ridge Rd, #01-03 Yusof Ishak House, Singapore 119078",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "6836 6240",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c201",
+                "name": " 7-Eleven University Town, NUS",
+                "email": " #01-05 College Ave West, Stephen Riady Centre, Singapore 138607",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": " 6694 4957",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c202",
+                "name": " 7-Eleven The Metropolis",
+                "email": "9 N Buona Vista Dr, #01-11, Singapore 138588",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": " 6339 4894",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c203",
+                "name": " 7-Eleven Clementi",
+                "email": "3150 Commonwealth Ave W, #02-01 Clementi MRT Station, Singapore 129580",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": " 6776 1981",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c204",
+                "name": " Cheers NUS UTown",
+                "email": "1 Create Way, #01-01, 138602",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "female",
+                "phone": {
+                    "mobile": " 6659 6017",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c205",
+                "name": " Cheers West Coast Plaza",
+                "email": " 154 West Coast Rd, West Coast Plaza, #B1-54A, 127371",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "female",
+                "phone": {
+                    "mobile": "6250 1237",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c206",
+                "name": " CheersHolland Road Esso Station",
+                "email": " 174 Holland Rd, Singapore 278582",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "female",
+                "phone": {
+                    "mobile": " 6468 5258",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        }
+    ]
 }
