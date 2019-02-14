@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "data": [
+        {
+                "id": "c200",
+                "name": " Central Area, Bishan-Ang Mo Kio Park, (3km, 64 hectares)",
+                "address": "Along Bishan Road and Ang Mo Kio Ave 1",
+                "phone":  "1800 471 7300"
+        },
+        {
+                "id": "c201",
+                "name": " Central Area, Punggol Waterway Park, (8.4km, 12.25-13.54 hectares)",
+                "address": "Sentul Cres, Singapore 821313",
+                "phone": "1800 471 7300"
+        },
+        {
+                "id": "c202",
+                "name": " Eastern Area, Bedok Reservoir Park, (4.3km, 41.7 hectares)",
+                "address": "Along Bedok Reservoir Road ",
+                "phone":  "1800 471 7300 "
+        },
+        {
+                "id": "c203",
+                "name": " North Area, Woodlands Waterfront (2.6km, 11 hectares)",
+                "address": "6A Admiralty Rd W, Singapore 759956 ",
+                "phone": "1800 471 7300 "
+        },
+        {
+                "id": "c204",
+                "name": " North Area, Lower Seletar Reservoir Park, (2.8km, 4 hectares)",
+                "address": " Bounded by Yishun Ave 1 and Lentor Avenue",
+                "phone":"1800 471 7300 "
+        },
+        {
+                "id": "c205",
+                "name": " North Eastern Area, Punggol Waterway Park, (8.4km, 12-13 hectares)",
+                "address": "Along Sentul Crescent Road (Cuts through the whole of Punggol Town)",
+                "phone":"1800 471 7300 " 
+        },
+        {
+                "id": "c206",
+                "name": " Western Area, Bukit Batok Nature Park, (4.1km, 36 hectares)",
+                "address": "Along Bukit Batok East Avenue 2 and Bukit Batok East Avenue 6 ",
+                "phone": "1800 471 7300 " 
+        }
+    ]
 }
